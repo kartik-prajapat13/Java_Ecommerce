@@ -29,8 +29,7 @@ The views are located in `src/main/webapp/views`, but for some reason, Spring Bo
 4. Click "Apply" and "OK"
 
 
-When you run the project, the views should be found by Spring Boot and you should see a login page in http://localhost:8080/ (if not logged in previously)!
-![configurations](image.png)
+
 
 
 ### Controller
